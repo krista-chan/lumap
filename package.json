@@ -1,0 +1,14 @@
+{
+  "name": "lumap",
+  "version": "1.0.0",
+  "description": "Better and cuter maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lumap"
+  ],
+  "author": "Dice",
+  "license": "MIT"
+}
